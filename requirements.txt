@@ -1,0 +1,10 @@
+# Versions exactes et empreintes SHA-256 officielles PyPI, revérifiées le 17/11/2026.
+# Pas d'installation de sources (roues binaires seulement), pas de dépendance indirecte.
+yt-dlp==2026.10.26 \
+    --hash=sha256:a05c5b5d8562f7e8a62f5334348b406af4930d56d3a65f8021d14af0e22339ae
+
+# Toutes les architectures Windows prises en charge : x64, 32 bits, ARM64.
+imageio-ffmpeg==0.8.1 \
+    --hash=sha256:f27ca4cb85e2d4946deedbce1a81245dfd942a2bcf94b53676fb3956aa95bf1b \
+    --hash=sha256:4f1213a47d9c3e819d5953671bc45d133a7d3a00c40a2934a9b1356933bee4e9 \
+    --hash=sha256:0b7079e63dc34f97e43db5a5b7b9efb85edc1c6623313e0a4a17ebc7c2ce7a51
